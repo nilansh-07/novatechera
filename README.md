@@ -1,5 +1,5 @@
 # 🏗️ NovaTechEra  
-### *Industrial Epoxy & PU Flooring Experts – 15+ Years of Proven Excellence*
+### *Industrial Epoxy & PU Flooring Experts – 17+ Years of Proven Excellence*
 
 > Delivering high-performance flooring solutions trusted by 2000+ companies across India.
 
@@ -9,7 +9,7 @@
 
 **NovaTechEra** is a premium provider of **epoxy, PU, and industrial flooring solutions**, driven by a vision to strengthen India's industrial infrastructure — one floor at a time.
 
-With **15+ years of experience**, we've earned the trust of **2000+ clients**, consistently delivering precision, durability, and performance across manufacturing, pharma, automotive, and logistics sectors.
+With **17+ years of experience**, we've earned the trust of **2000+ clients**, consistently delivering precision, durability, and performance across manufacturing, pharma, automotive, and logistics sectors.
 
 ---
 
@@ -41,7 +41,7 @@ We design and implement flooring systems that meet the highest standards of qual
 
 ## 📈 Why NovaTechEra?
 
-- 🛠️ **15+ Years** of Technical Mastery  
+- 🛠️ **17+ Years** of Technical Mastery  
 - 🤝 **2000+ Businesses** Served Across India  
 - 📦 **Custom Solutions** Tailored to Each Project  
 - 🧰 **Pan-India Operations** with Local Expertise  
